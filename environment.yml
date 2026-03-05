@@ -1,0 +1,17 @@
+name: sdgnn-smiles-app
+channels:
+  - pytorch
+  - pyg
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - pandas
+  - scikit-learn
+  - streamlit
+  - mendeleev
+  - rdkit
+  - pytorch
+  - cpuonly
+  - pytorch-geometric

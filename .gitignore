@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Envs
+.venv/
+venv/
+.env
+*.env
+conda-meta/
+*.conda
+
+# Streamlit
+.streamlit/
+
+# Data / models
+models/*.pt
+models/*.pth
+*.pt
+*.pth
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
